@@ -47,8 +47,7 @@ def short_hand(short):
     print(short)
 
 
-while True:
-    print("hello world")
+
 
 
 if __name__ == '__main__':
@@ -57,4 +56,4 @@ if __name__ == '__main__':
     # print(create_string())
     # secret = [1, 2, 3, 4, 5]
     # print(matches(guesses, secret))
-    # print(short_hand("Thank you for that! You are too sweet and kind!"))
+    print(short_hand("the trees for the yard are too green in summer for you"))

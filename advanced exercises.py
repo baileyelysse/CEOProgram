@@ -47,9 +47,9 @@ def polling_friends():
 
 
 if __name__ == '__main__':
-    #print(shake_ball())
+    print(shake_ball())
     # print(gymnast_scores())
     # first_list = ['Joe', 'Moe', 'Bo', 'LoLo', 'Zo']
     # last_list = ['Smith', 'Rodriguez', 'Hernandez', 'Doe', 'Phillips']
     # print(name_generator(first_list, last_list))
-    print(finding_vowels("no vowels"))
+    # print(finding_vowels("no vowels"))
